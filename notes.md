@@ -1,4 +1,4 @@
-# BOOT_CAMP_NOTES_AND_COMMITS_TO_BE_MADE
+# Guide
 
 ### Type
 
@@ -33,6 +33,19 @@ The body should include the motivation for the change and contrast this with pre
 ### Footer
 
 The footer should contain any information about **Breaking Changes** and is also the place to reference GitHub issues that this commit **Closes**.
+
+## Branch Naming Conventions
+
+### Branch Types
+
+-   `main` or `master`: Main production branch
+-   `develop`: Main development branch
+-   `feature/*`: Feature branches
+-   `bugfix/*`: Bug fix branches
+-   `hotfix/*`: Hot fix branches for production
+-   `release/*`: Release branches
+-   `refactor/*`: Code refactoring branches
+-   `docs/*`: Documentation branches
 
 ### Initial Project Setup
 
