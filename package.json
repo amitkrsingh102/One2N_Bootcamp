@@ -1,0 +1,12 @@
+{
+  "name": "one2n_bootcamp",
+  "version": "1.0.0",
+  "description": "A RESTful API service built with Express.js and TypeScript for managing student records. This service provides endpoints for creating, reading, updating, and deleting student information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
